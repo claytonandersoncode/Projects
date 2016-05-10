@@ -2,6 +2,10 @@ import time
 import urllib.request
 from urllib.request import urlopen
 
+"""Retrieves public information from 'yahoo finance'
+ to develop a quick value analysis of specified stocks. 
+ Could be altered to narrow stock output based on desired criteria"""
+
 sp500short = ['aapl','amd','amzn','atvi','baba','brk-b','cmg','dis','fb','goog','itw','ibm','jnj','msft','mo','nflx','nvs','nobl','slb','ts','tsla','ua','vig','vbr','wb','wmt']
 
 def yahooKeyStats(stock):
