@@ -4,7 +4,7 @@ from urllib.request import urlopen
 
 """Retrieves public information from 'yahoo finance'
  to develop a quick value analysis of specified stocks. 
- Could be altered to narrow stock output based on desired criteria
+ Could be altered to narrow stock output based on desired criteria.
  
  Based on the youtube series 
  'Using programming for fundamental investing' by Sentdex. 
