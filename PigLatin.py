@@ -1,5 +1,5 @@
 
-"""This is a pig latin translator, built for CodeAcademy.
+"""A simple pig latin translator, built for CodeAcademy python tutorial.
 Updated to Python3"""
 
 pyg = 'ay'
