@@ -3,7 +3,7 @@ import time
 from random import randint
 
 """A turn based program where players fight a 
-simple computer A.I. in a gladiator style game"""
+simple computer in a gladiator style game"""
 
 def main():
     try:
