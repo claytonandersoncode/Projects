@@ -1,6 +1,9 @@
 import decimal
 from decimal import *
 
+	"""
+	Calculates future and present value operations:
+	"""
 
 def get_fv(pv,r,t):
 	"""
