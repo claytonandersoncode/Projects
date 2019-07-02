@@ -1,7 +1,6 @@
 grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 
-"""Built for CodeAcademy Python Tutorial.
-Finds Sum, Mean, Standard Deviation, and Variance of a list of grades."""
+"""Finds Sum, Mean, Standard Deviation, and Variance of a list of grades"""
 
 def print_grades(grades):
     for grade in grades:
