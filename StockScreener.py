@@ -8,7 +8,7 @@ from urllib.request import urlopen
  
  Based on the youtube series 
  'Using programming for fundamental investing' by Sentdex. 
- Updated to Python3 and altered to include specific stocks and filters."""
+ Updated to Python3 and altered to include specific stocks and filters"""
 
 sp500short = ['aapl','amd','amzn','atvi','baba','brk-b','cmg','dis','fb','goog','itw','ibm','jnj','msft','mo','nflx','nvs','nobl','slb','ts','tsla','ua','vig','vbr','wb','wmt']
 
