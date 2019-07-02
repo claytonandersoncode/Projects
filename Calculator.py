@@ -1,4 +1,4 @@
-#Returns the sum of num1 and num2
+#Returns the sum of num1 & num2
 def add(num1,num2):
 	return num1 + num2
 #Returns the result of num1 subtracted by num2
